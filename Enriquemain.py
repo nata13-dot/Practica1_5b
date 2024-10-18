@@ -11,3 +11,4 @@ if a>b:
 else:
     print(f"El mayor es {b}")
 
+print("La suma de a + b es ",c)
